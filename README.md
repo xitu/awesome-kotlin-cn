@@ -1,18 +1,26 @@
 ## 目录
 
-- 介绍
-- 官网及文档
-- 中文社区
-- 教程 & 文章
-- 开源库和框架
-- Demo
-- 其他
+- [介绍](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#介绍)
+- [官网及文档](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#官网及文档)
+- [中文社区](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#中文社区)
+- [教程 & 文章](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#教程--文章)
+- [开源库和框架](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#开源库和框架)
+- [Demo](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#demo)
+- [其他](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#其他-1)
 
 
 ## 介绍
 
-今天凌晨的 Google I/O 上，Google 正式宣布官方支持 Kotlin. 为了让大家更快了解和上手 Kotlin，[掘金技术社区](https://juejin.im?utm_source=awesome_kotlin&utm_medium=jjzl)为大家整理了这份 Kotlin 资源大全，希望可以帮助大家用最短时间学习 Kotlin.
+### 为什么要做 awesome-kotlin-cn ？
 
+- 今天凌晨的 Google I/O 上，Google 正式宣布官方支持 Kotlin. 为了让大家更快了解和上手 Kotlin，[掘金技术社区](https://juejin.im)为大家整理了这份 Kotlin 资源大全，希望可以帮助大家用最短时间学习 Kotlin.
+
+### 如何参与本项目？
+
+- 参与要求
+  - 英文水平可以翻译技术文章
+  - Kotlin 开发者
+- 如果有兴趣，可以加微信：404096378，备注「kotlin大全」
 
 ## 官网及文档
 
@@ -24,14 +32,14 @@
 
 ## 中文社区
 
-- [掘金技术社区](https://juejin.im?utm_source=awesome_kotlin&utm_medium=jjzl)
+- [掘金技术社区](https://juejin.im)
 
 
 ## 教程 & 文章
 
 ### 视频教程
 
-- [Kotlin 系列视频教程](https://juejin.im/entry/584f37c4a22b9d0058ea1715/detail?utm_source=awesome_kotlin&utm_medium=jjzl)
+- [Kotlin 系列视频教程](https://juejin.im/entry/584f37c4a22b9d0058ea1715/detail)
 
 ### 开始用 Kotlin 之前
 
@@ -42,11 +50,11 @@
 
 ### Kotlin 语言程序设计
 
-- [Kotlin Primer · 第一章 · 启程](https://juejin.im/entry/5893ff2f8d6d81006c4a9565/detail?utm_source=awesome_kotlin&utm_medium=jjzl)
-- [Kotlin Primer · 第二章 · 基本语法](https://juejin.im/entry/58955ed9b123db16a395cf9b/detail?utm_source=awesome_kotlin&utm_medium=jjzl)
-- [Kotlin Primer · 第三章 · Kotlin 与 Java 混编](https://juejin.im/entry/589aaab11b69e60059aa0b1e/detail?utm_source=awesome_kotlin&utm_medium=jjzl)
-- [Kotlin Primer · 第四章 · 类特性](https://juejin.im/entry/58b3d0ba8fd9c50063e142f8/detail?utm_source=awesome_kotlin&utm_medium=jjzl)
-- [Kotlin Primer · 第五章 · 函数与闭包](https://juejin.im/entry/58fcaab95c497d005800743c/detail?utm_source=awesome_kotlin&utm_medium=jjzl)
+- [Kotlin Primer · 第一章 · 启程](https://juejin.im/entry/5893ff2f8d6d81006c4a9565/detail)
+- [Kotlin Primer · 第二章 · 基本语法](https://juejin.im/entry/58955ed9b123db16a395cf9b/detail)
+- [Kotlin Primer · 第三章 · Kotlin 与 Java 混编](https://juejin.im/entry/589aaab11b69e60059aa0b1e/detail)
+- [Kotlin Primer · 第四章 · 类特性](https://juejin.im/entry/58b3d0ba8fd9c50063e142f8/detail)
+- [Kotlin Primer · 第五章 · 函数与闭包](https://juejin.im/entry/58fcaab95c497d005800743c/detail)
 
 ### 上手 Kotlin
 
@@ -57,8 +65,8 @@
 
 ### Kotlin & Java
 
-- [Kotlin 与 Java 共存 (1)](https://juejin.im/entry/5858c87161ff4b006cb7a7e1/detail?utm_source=awesome_kotlin&utm_medium=jjzl)
-- [Kotlin 与 Java 共存 (2)](https://juejin.im/entry/5858c8f78d6d810065c21a2c/detail?utm_source=awesome_kotlin&utm_medium=jjzl)
+- [Kotlin 与 Java 共存 (1)](https://juejin.im/entry/5858c87161ff4b006cb7a7e1/detail)
+- [Kotlin 与 Java 共存 (2)](https://juejin.im/entry/5858c8f78d6d810065c21a2c/detail)
 - [告别 Java，一起来使用kotlin开发完整客户端](https://juejin.im/post/583b042461ff4b007ecf00ff)
 - [Kotlin 兼容 Java 遇到的最大的 “坑”](https://juejin.im/entry/58e19fd12f301e006214b88c/detail)
 
@@ -75,7 +83,7 @@
 
 ### 更多
 
-- [阅读更多 Kotlin 相关经验文章](https://juejin.im/tag/Kotlin?utm_source=awesome_kotlin&utm_medium=jjzl)
+- [阅读更多 Kotlin 相关经验文章](https://juejin.im/tag/Kotlin)
 
 
 ## 开源库和框架
@@ -170,4 +178,4 @@
 
 ### 维护
 
-- 本文档将由[掘金](https://juejin.im?utm_source=awesome_kotlin&utm_medium=jjzl)长期更新，也欢迎更多 Kotlin 开发者参与维护。
+- 本文档将由[掘金](https://juejin.im)长期更新，也欢迎更多 Kotlin 开发者参与维护。
