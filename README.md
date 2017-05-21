@@ -91,6 +91,7 @@
 - [Bubble](https://github.com/TouK/bubble) - 屏幕方向监测
 - [Kotpref](https://github.com/chibatching/Kotpref) - Android SharedPreference delegation for Kotlin.
 - [Fuese](https://github.com/kittinunf/Fuse) - The simple generic LRU memory/disk cache for Android
+- [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) - An Android project template using Kotlin/MVP/ReactiveX.
 
 ### Web 开发
 
