@@ -15,12 +15,9 @@
 
 - 今天凌晨的 Google I/O 上，Google 正式宣布官方支持 Kotlin. 为了让大家更快了解和上手 Kotlin，[掘金技术社区](https://juejin.im)为大家整理了这份 Kotlin 资源大全，希望可以帮助大家用最短时间学习 Kotlin.
 
-### 如何参与本项目？
+### 项目支持？
 
-- 参与要求
-  - 英文水平可以翻译技术文章
-  - Kotlin 开发者
-- 如果有兴趣，可以加微信：404096378，备注「kotlin大全」
+- 目前项目由[掘金](https://juejin.im)管理，Admin: [@achilleo](https://github.com/achilleo), [@NeXT](https://github.com/kingideayou), [@linmi](https://github.com/linmi), [@hanks](https://github.com/hanks-zyh)
 
 ## 官网及文档
 
