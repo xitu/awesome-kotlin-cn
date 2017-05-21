@@ -1,12 +1,12 @@
 ## 目录
 
-- [介绍](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#介绍)
-- [官网及文档](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#官网及文档)
-- [中文社区](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#中文社区)
-- [教程 & 文章](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#教程--文章)
-- [开源库和框架](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#开源库和框架)
-- [Demo](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#demo)
-- [其他](https://github.com/xitu/awesome-kotlin-cn/blob/master/README.md#其他-1)
+- [介绍](#介绍)
+- [官网及文档](#官网及文档)
+- [中文社区](#中文社区)
+- [教程 & 文章](#教程--文章)
+- [开源库和框架](#开源库和框架)
+- [Demo](#demo)
+- [其他](#其他-1)
 
 
 ## 介绍
