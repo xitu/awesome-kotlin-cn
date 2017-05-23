@@ -66,6 +66,7 @@
 - [Kotlin 与 Java 共存 (2)](https://juejin.im/entry/5858c8f78d6d810065c21a2c/detail)
 - [告别 Java，一起来使用kotlin开发完整客户端](https://juejin.im/post/583b042461ff4b007ecf00ff)
 - [Kotlin 兼容 Java 遇到的最大的 “坑”](https://juejin.im/entry/58e19fd12f301e006214b88c/detail)
+- [Java -> Kotlin 速查表](https://juejin.im/entry/59225a3ba0bb9f005f5e767e/detail)
 
 ### 开发实践
 
