@@ -78,6 +78,7 @@
 - [Kotlin 一个很厉害的 DSL 写法](https://juejin.im/entry/591adc7ca0bb9f005f079bcd/detail)
 - [如何正确终止 forEach](https://juejin.im/post/58fd31dd8d6d8100589813bf)
 - [Using Kotlin for Android Development](http://itangqi.me/2017/03/28/using-kotlin-for-android-development/)
+- [Kotlin 代码风格指南](https://juejin.im/entry/592ea46e2f301e0057169155/detail)
 
 ### 更多
 
