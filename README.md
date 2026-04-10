@@ -9,6 +9,7 @@
 - [其他](#其他-1)
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=xitu_awesome-kotlin-cn) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## 介绍
 
 ### 为什么要做 awesome-kotlin-cn ？
