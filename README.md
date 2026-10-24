@@ -155,6 +155,7 @@
 - [Humanizer.jvm](https://github.com/MehdiK/Humanizer.jvm) - Humanizer Library
 - [Hashids.kt](https://github.com/leprosus/kotlin-hashids) - Kotlin hashids hash function
 - [khronos](https://github.com/hotchemi/khronos) - An intuitive Date extensions in Kotlin.
+- [moxsh-suite](https://github.com/codecloud-dev/moxsh-suite) - MoX 家族 monorepo：把 moxsh 安卓终端、官网、设计原型与插件规范集中收纳，全液态玻璃 UI。
 
 
 ## Demo
@@ -166,8 +167,6 @@
 - [饭否精选](https://github.com/TonnyL/FanfouHandpick) - 使用 Kotlin 开发的饭否精选 App
 
 - [PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin) - 一个用 Kotlin 写的简单漫画 APP
-
-- [moxsh-suite](https://github.com/codecloud-dev/moxsh-suite) - MoX 家族 monorepo：把 moxsh 安卓终端、官网、设计原型与插件规范集中收纳，全液态玻璃 UI。
 
 
 ## 其他
